@@ -1,8 +1,8 @@
-title: CompSci Blogs
+title: Timo's Blogs
 description: "August 2023 to June 2024"
 owner_name: TimoA35
 github_username: TimoA35
-baseurl: "/student"
+baseurl: "/studentrepo"
 remote_theme: pages-themes/Leap-day@v0.2.0
 # remote_theme: pages-themes/dinky@v0.2.0
 # remote_theme: pages-themes/minimal@v0.2.0
