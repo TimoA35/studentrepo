@@ -10,3 +10,5 @@ categories: [C1.4]
 ---
 
 [Commiting prematurely](https://github.com/TimoA35/studentrepo/issues/3#issue-1884543402)
+
+[Theme](https://github.com/TimoA35/studentrepo/issues/4#issue-1884548668)
