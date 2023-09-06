@@ -1,11 +1,12 @@
 ---
+toc: flase
 comments: false
 layout: post
 title: Snake
 description:
 type: hacks
-courses: {‘csp’: {‘week’: 2}}
-categories: [‘C4.1’]
+courses: { csse: {week: 1}, csp: {week: 2, categories: [4.A]}, csa: {week: 0} }
+categories: [C1.4]
 ---
 
 <style>
