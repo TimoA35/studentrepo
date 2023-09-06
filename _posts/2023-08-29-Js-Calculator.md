@@ -1,11 +1,12 @@
 ---
+toc: flase
 comments: false
 layout: post
-title: Timo's JS Calculator
+title: GPA Calculator
 description:
 type: hacks
-courses: {‘csse’: {‘week’: 1}, ‘csp’: {‘week’: 1}, ‘csa’: {‘week’: 0}}
-categories: [‘C4.1’]
+courses: { csse: {week: 1}, csp: {week: 2, categories: [4.A]}, csa: {week: 0} }
+categories: [C1.4]
 ---
 
 <html lang="en">

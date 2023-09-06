@@ -1,5 +1,5 @@
 ---
-comments: false
+commnts: false
 layout: post
 title: Basketball Salaries
 description:
