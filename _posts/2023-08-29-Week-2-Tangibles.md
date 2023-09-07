@@ -17,4 +17,3 @@ categories: [C1.4]
 
 [Snake](https://github.com/TimoA35/studentrepo/issues/6#issue-1884572540)
 
-[Emoji](https://github.com/TimoA35/studentrepo/issues/8#issue-1886325524)

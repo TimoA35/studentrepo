@@ -10,3 +10,5 @@ categories: [C1.4]
 ---
 
 [Python Quiz](https://github.com/TimoA35/studentrepo/issues/7#issue-1885134238)
+
+[Emoji](https://github.com/TimoA35/studentrepo/issues/8#issue-1886325524)
