@@ -2,10 +2,10 @@
 toc: true
 comments: true
 layout: post
-title: Project plans/blogs
+title: Project plans/blogging
 description: 
 type: plans
-courses: { csse: {week: 1}, csp: {week: 16, categories: [4.A]}, csa: {week: 0} }
+courses: { csse: {week: 1}, csp: {week: 12, categories: [4.A]}, csa: {week: 0} }
 categories: [C1.4]
 ---
 
