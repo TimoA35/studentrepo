@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: Project plans/blogging
+title: Week 6 Plans
 description: 
 type: plans
 courses: { csse: {week: 1}, csp: {week: 6, categories: [4.A]}, csa: {week: 0} }
